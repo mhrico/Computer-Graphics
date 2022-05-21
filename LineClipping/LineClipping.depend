@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649674262 source:e:\lab prep\graphics\lineclipping\src\lineclipping.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<graphics.h>
+	<dos.h>
+
+1266076214 d:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

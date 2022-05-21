@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1649676345 source:e:\lab prep\graphics\midpoint2\midpoint.c
+	<graphics.h>
+	<stdio.h>
+
+1266076214 d:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

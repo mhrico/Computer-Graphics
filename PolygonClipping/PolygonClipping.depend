@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649673988 source:e:\lab prep\graphics\polygonclipping\src\polygonclipping.c
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<process.h>
+
+1266076214 d:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649661965 source:e:\lab prep\graphics\transform_2d\src\transform.c
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1266076214 d:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
